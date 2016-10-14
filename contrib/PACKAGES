@@ -1,0 +1,5 @@
+Package: KoreanProjection
+Version: 0.1
+Depends: sp
+License: GPL (>= 2)
+NeedsCompilation: no
