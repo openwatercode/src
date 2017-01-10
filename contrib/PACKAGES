@@ -1,5 +1,13 @@
 Package: KoreanProjection
-Version: 0.1
+Version: 0.1.2
 Depends: sp
-License: GPL (>= 2)
+License: GPL-2
+MD5sum: 6deac214774ca61731ff00cc4a9ae0f3
 NeedsCompilation: no
+
+Package: rskrpatch
+Version: 0.1.5
+License: GPL-2
+MD5sum: 4af18700e6460e82b3a211a4a236614b
+NeedsCompilation: no
+
